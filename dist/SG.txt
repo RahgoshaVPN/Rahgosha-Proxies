@@ -1,0 +1,1 @@
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=%2F&fp=chrome#🔒

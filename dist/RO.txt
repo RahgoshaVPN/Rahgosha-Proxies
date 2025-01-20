@@ -1,0 +1,2 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.116.22:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed%3D2560#🔒
+vless://0f94280c-f56a-48ba-b23c-884c2ab9e50e@5.253.40.187:443?security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&type=tcp&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&alpn=h2#🔒

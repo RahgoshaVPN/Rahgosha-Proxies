@@ -1,0 +1,1 @@
+vless://9a916cee-569d-5311-8acf-246cb5aad0d7@81.28.12.12:443?security=tls&sni=gsmvpx.info&type=ws&host=8759879542btc.com&path=/vless&fp=chrome&alpn=h2#🔒

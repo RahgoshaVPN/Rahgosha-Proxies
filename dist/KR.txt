@@ -1,0 +1,6 @@
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@144.24.90.107:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.203.34:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.2.81:587?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.94.80:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@158.180.82.186:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=vkvd127.mycdn.me&type=ws&host=bnnm.azurewebsites.net&path=%2F&fp=chrome&alpn=http%2F1.1#🔒
