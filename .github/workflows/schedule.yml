@@ -1,0 +1,34 @@
+name: Update proxies
+
+on:
+  schedule:
+    - cron: '0/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+
+    env:
+      SCRIPT: ${{ secrets.SCRIPT }}
+      API_URL: ${{ secrets.API_URL }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Update
+      run: |
+        pip install python-dotenv
+        python3 -c "from dotenv import load_dotenv; import os; load_dotenv(); open('script.py', 'w').write(os.getenv('SCRIPT'))"
+
+        python script.py ${{ secrets.API_URL }}
+
